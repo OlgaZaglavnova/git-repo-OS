@@ -1,0 +1,2 @@
+print("goodbye, Medved!")
+print("Совсем goodbye, Medved!")
