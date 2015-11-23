@@ -1,2 +1,2 @@
-print("goodbye, Medved!")
-print("Совсем goodbye, Medved!")
+print("goodbye, Medved!;")
+print("Совсем goodbye, Medved!;")
