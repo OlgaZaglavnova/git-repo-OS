@@ -10,7 +10,7 @@ namespace CSharpPrj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("prevedddd medvedddd!!! idi medved");
+            Console.WriteLine("prevedddd medvedddd!!! preved sova!!!");
             Console.ReadKey();
         }
     }
